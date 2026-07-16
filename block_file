@@ -7,3 +7,5 @@ nvme0n1     259:0    0   35G  0 disk
 ├─nvme0n1p4 259:4    0    1K  0 part 
 ├─nvme0n1p5 259:5    0  1.9G  0 part /home
 └─nvme0n1p6 259:6    0 12.1G  0 part /
+
+echo "we are working on the github"
