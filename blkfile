@@ -1,5 +1,0 @@
-/dev/nvme0n1p5: UUID="f40e5dcf-7786-445c-adeb-3e373ec0539c" TYPE="xfs" PARTUUID="994965ad-05"
-/dev/nvme0n1p3: UUID="bb0d6bfd-7971-49b7-b78e-953bcbb98d56" TYPE="swap" PARTUUID="994965ad-03"
-/dev/nvme0n1p1: UUID="00096197-5f6a-4fc4-9090-21a9d3b5f824" TYPE="xfs" PARTUUID="994965ad-01"
-/dev/nvme0n1p6: UUID="636aad9b-da97-4b41-9053-65dc7572270b" TYPE="xfs" PARTUUID="994965ad-06"
-/dev/nvme0n1p2: UUID="ff30271f-5660-401c-a5e8-27ec89a78f4b" TYPE="xfs" PARTUUID="994965ad-02"
